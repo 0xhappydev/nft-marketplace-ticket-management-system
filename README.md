@@ -1,17 +1,17 @@
-# TFG: Gestión de Entradas en Marketplace Descentralizado de Blockchain
+# TFG: Final Degree Project: Ticket Management in a Decentralized Blockchain Marketplace
 
-Este proyecto de Trabajo de Fin de Grado (TFG) se centra en el desarrollo de un marketplace descentralizado utilizando tecnología blockchain para gestionar la venta y distribución de entradas de eventos. La aplicación se construye con el objetivo de explorar las capacidades y desafíos de la tecnología blockchain en el ámbito de la gestión de entradas, garantizando la transparencia, la seguridad y la eliminación de intermediarios en el proceso.
+This Final Degree Project (FDP) focuses on the development of a decentralized marketplace using blockchain technology to manage the sale and distribution of event tickets. The application is built to explore the capabilities and challenges of blockchain technology in ticket management, ensuring transparency, security, and the elimination of intermediaries in the process.
 
-## Tecnologías Utilizadas
+## Technologies Used
 
-- **Ethers.js**: Biblioteca de JavaScript para interactuar con la red Ethereum y los contratos inteligentes.
-- **Ganache**: Testnet local para el desarrollo y la prueba de contratos inteligentes en Ethereum.
-- **Goerli**: Blockchain testnet de Ethereum para la prueba y despliegue de contratos inteligentes en un entorno similar al de producción.
+- **Ethers.js**: JavaScript library for interacting with the Ethereum network and smart contracts.
+- **Ganache**: Local testnet for developing and testing smart contracts on Ethereum.
+- **Goerli**: Ethereum blockchain testnet for testing and deploying smart contracts in a production-like environment.
 
-## Funcionalidades Principales
+## Main Features
 
-1. **Registro y Autenticación**: Los usuarios pueden registrarse y autenticarse en la plataforma utilizando sus cuentas de Ethereum.
-2. **Compra y Venta de Entradas**: Los usuarios pueden comprar y vender entradas para eventos utilizando contratos inteligentes en la blockchain.
-3. **Verificación de Autenticidad**: Los compradores pueden verificar la autenticidad de las entradas mediante la blockchain, garantizando la integridad y la legitimidad de las mismas.
-4. **Acceso a contenido especial con posesión de NFT**: Los usuarios con nft podrán acceder a eventos especiales si poseen el nft en su cartera.
+1. **Registration and Authentication**: Users can register and authenticate on the platform using their Ethereum accounts.
+2. **Buying and Selling Tickets**: Users can buy and sell event tickets using smart contracts on the blockchain.
+3. **Authenticity Verification**: Buyers can verify the authenticity of tickets using the blockchain, ensuring their integrity and legitimacy.
+4. **Access to special content with NFT ownership**: Users with NFTs will be able to access special events if they own the NFT in their wallet.
 
